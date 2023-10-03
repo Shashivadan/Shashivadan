@@ -45,6 +45,6 @@ I'm a highly motivated and skilled professional with a strong background in prog
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashivadan&show_icons=true)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
