@@ -8,7 +8,6 @@ I'm a highly motivated and skilled professional with a strong background in prog
 - **Web Development:** HTML5, CSS, Bootstrap, Flask
 - **Version Control:** Git/GitHub
 - **Documentation:** Engineering Documentation
-- **Other:** [Add any other relevant skills]
 
 ## Projects
 
@@ -16,13 +15,11 @@ I'm a highly motivated and skilled professional with a strong background in prog
 
 - This project implements a drowsiness detection system using a webcam.
 - Utilizes computer vision techniques to monitor a person's eyes and detect signs of drowsiness in real-time.
-- [Link to the project repository]
 
 ## Certificates
 
 - HackerRank Python (Basic)
 - Python for Students
-- [Add any other certificates]
 
 ## Education
 
@@ -40,7 +37,6 @@ I'm a highly motivated and skilled professional with a strong background in prog
 
 - **Email:** shashivadan99@gmail.com
 - **Address:** H.No: 4-8, Krishna colony, Bhupalpally, Telangana
-- **LinkedIn:** [Your LinkedIn Profile]
 - **Phone:** 06281373269
 
 ## GitHub Stats
