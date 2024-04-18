@@ -6,6 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello.+I'm+Shashivadan)](https://git.io/typing-svg)
 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko)](https://github.com/Shashivadan/github-readme-activity-graph)
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Shashivadan&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashivadan&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
