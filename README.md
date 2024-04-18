@@ -13,7 +13,7 @@
 
 - :seedling: Exploring Technical Content and learning about new tech.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I practice touch typing and read tech articles.
 
 ### :hammer_and_wrench: Languages and Tools :
 ### Languages :
