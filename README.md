@@ -60,6 +60,7 @@
 [![An image of @shashivadan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashivadan)](https://holopin.io/@shashivadan)
 	
 <a href="https://app.daily.dev/shashivadan"><img src="https://api.daily.dev/devcards/v2/2ZcluQCKDRa56PZLopxdE.png?r=ju6&type=wide" width="652" alt="shashivadan's Dev Card"/></a>
-<span><iframe src="https://giphy.com/embed/IVgzvC50JZZ2jEEvX4" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/jornadas-revuelta-easda-IVgzvC50JZZ2jEEvX4">via GIPHY</a></p> </span>
+
+
 
 
