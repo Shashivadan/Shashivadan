@@ -25,9 +25,12 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Shashivadan&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashivadan&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shashivadan&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=Shashivadan&theme=darcula&hide_border=true&background=FFFFFF00">
+	 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/wakatime?username=shashivadan&layout=&hide_border=true&theme=darcula&bg_color=00000000">
   <br>
 </p>
+
+
 
 
 
@@ -37,12 +40,10 @@
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko)](https://github.com/Shashivadan/github-readme-activity-graph)
 [![An image of @shashivadan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashivadan)](https://holopin.io/@shashivadan)
 	
-<p align="flex" >
+<p align="center" >
 	<a href="https://app.daily.dev/shashivadan"><img src="https://api.daily.dev/devcards/v2/2ZcluQCKDRa56PZLopxdE.png?r=ju6&type=wide" width="652" alt="shashivadan's Dev Card"/></a>
 </p>
 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shashivadan)]
 
 
 
