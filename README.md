@@ -39,7 +39,6 @@
 	
 <p align="flex" >
 	<a href="https://app.daily.dev/shashivadan"><img src="https://api.daily.dev/devcards/v2/2ZcluQCKDRa56PZLopxdE.png?r=ju6&type=wide" width="652" alt="shashivadan's Dev Card"/></a>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shashivadan" />
 </p>
 
 
