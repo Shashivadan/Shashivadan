@@ -2,21 +2,25 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello.+I'm+Shashivadan)](https://git.io/typing-svg)
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am Shashivadan, an enthusiast currently developing web app  and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content and learning about new tech.
 
 - :zap: In my free time, I practice touch typing and read tech articles.
 
-### :hammer_and_wrench: Languages and Tools :
+---
+
+<h2 style="text-align: center;">:hammer_and_wrench: Languages and Tools :</h2>
+
 ### Languages :
+
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)
 ### Frameworks:
 
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,npm,nodejs,express,next,prisma)
 ### CD/CI & Databases:
 
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,aws,postgresql,mongodb,ubuntu)
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,aws,postgresql,mongodb,ubuntu,vercel,cloudflare,docker)
 ### Code Editors :
 
 ![My Skills](https://skillicons.dev/icons?i=vim,neovim,vscode,md)
