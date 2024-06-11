@@ -13,13 +13,13 @@
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)
 ### Frameworks:
 
-![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,npm,nodejs,express,next)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,npm,nodejs,express,next,prisma)
 ### CD/CI & Databases:
 
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,aws,postgresql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,aws,postgresql,mongodb,ubuntu)
 ### Code Editors :
 
-![My Skills](https://skillicons.dev/icons?i=vim,neovim,vscode)
+![My Skills](https://skillicons.dev/icons?i=vim,neovim,vscode,md)
 
 ---
 <p align="center">
