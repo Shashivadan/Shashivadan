@@ -19,7 +19,7 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,aws,postgresql,mongodb,ubuntu,vercel,cloudflare,docker)
 
 #### 🖥️ Code Editors
-![My Skills](https://skillicons.dev/icons?i=vim,neovim,vscode,md)
+![My Skills](https://skillicons.dev/icons?i=vim,neovim,vscode)
 
 ---
 
