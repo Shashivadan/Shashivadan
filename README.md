@@ -34,7 +34,7 @@
 </p>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko)](https://github.com/Shashivadan/github-readme-activity-graph)
-[![An image of @shashivadan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashivadan)](https://holopin.io/@shashivadan)
+
 	
 
 ---
