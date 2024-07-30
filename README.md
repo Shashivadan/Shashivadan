@@ -1,11 +1,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello.+I'm+Shashivadan)](https://git.io/typing-svg)
 
-### About Me
+# 🌍 Website
+You can visit my [personal website](https://shashivadan.dev) to learn more about my projects, read my blog, and get in touch with me.
 
-👋 Hello! I'm **Shashivadan**, a passionate web developer with a keen interest in both frontend and backend technologies. I love exploring new tech and creating seamless web applications. When I'm not coding, you'll find me practicing touch typing or diving into tech articles to stay updated with the latest trends.
+#### 📝 Topics
+- 💻 Web Development
+- 🎨 Frontend and Backend Technologies
+- ⚙️ JavaScript and TypeScript
+- ⚛️ React and Next.js
+- 🔧 CI/CD and DevOps
+- 🗄️ Databases: PostgreSQL and MongoDB
+- ⌨️ Touch Typing
+- 📚 Tech Articles and Learning
+
+Feel free to connect with me on GitHub, follow my projects, and explore my repositories. Let's build something amazing together!
 
 ---
+
 
 ### 🛠️ Languages and Tools
 
@@ -37,26 +49,6 @@
 
 	
 
----
-
-### 🌐 Website and Topics
-
-#### 🌍 Website
-You can visit my [personal website](https://shashivadan.dev) to learn more about my projects, read my blog, and get in touch with me.
-
-#### 📝 Topics
-- 💻 Web Development
-- 🎨 Frontend and Backend Technologies
-- ⚙️ JavaScript and TypeScript
-- ⚛️ React and Next.js
-- 🔧 CI/CD and DevOps
-- 🗄️ Databases: PostgreSQL and MongoDB
-- ⌨️ Touch Typing
-- 📚 Tech Articles and Learning
-
-Feel free to connect with me on GitHub, follow my projects, and explore my repositories. Let's build something amazing together!
-
----
 
 <a href="https://wakatime.com/@018de9a6-89c0-447a-9820-65e4876c3d5a"><img src="https://wakatime.com/badge/user/018de9a6-89c0-447a-9820-65e4876c3d5a.svg" alt="Total time coded since Feb 27 2024" /></a>
 
