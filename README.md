@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello.+I'm+Shashivadan)](https://git.io/typing-svg)
 
 # 🌍 Website
-You can visit my [personal website](https://shashivadan.dev) to learn more about my projects, read my blog, and get in touch with me.
+You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and get in touch with me.
 
 #### 📝 Topics
 - 💻 Web Development
