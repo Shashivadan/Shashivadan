@@ -49,6 +49,17 @@ Feel free to connect with me on GitHub, follow my projects, and explore my repos
 
 ---
 <!--START_SECTION:waka-->
+
+```rust
+From: 27 February 2024 - To: 14 August 2024
+
+Total Time: 298 hrs 55 mins
+
+TypeScript    214 hrs 43 mins >>>>>>>>>>>>>>>>>--------   68.48 %
+JavaScript    57 hrs 22 mins  >>>>>--------------------   18.30 %
+Other         14 hrs 38 mins  >------------------------   04.67 %
+```
+
 <!--END_SECTION:waka-->
 
 
