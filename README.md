@@ -51,11 +51,11 @@ Feel free to connect with me on GitHub, follow my projects, and explore my repos
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 August 2024 - To: 16 August 2024
+From: 10 August 2024 - To: 17 August 2024
 
-Total Time: 10 hrs 8 mins
+Total Time: 7 hrs 44 mins
 
-Other         22 hrs 56 mins  >>>>>>>>>>>>>>>>>--------   69.36 %
+Other          28 hrs 16 mins  >>>>>>>>>>>>>>>>>>>>-----   78.49 %
 ```
 
 <!--END_SECTION:waka-->
