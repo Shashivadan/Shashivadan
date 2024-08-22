@@ -8,7 +8,7 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
 
 <p align="center">
   
-<img src="https://myreadme.vercel.app/api/embed/Shashivadan?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/Shashivadan?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
   <br>
 </p>
 
