@@ -1,40 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello.+I'm+Shashivadan)](https://git.io/typing-svg)
-
-# 🌍 Website
+<br>
 You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and get in touch with me.
-
-#### 📝 Topics
-- 💻 Web Development
-- 🎨 Frontend and Backend Technologies
-- ⚙️ JavaScript and TypeScript
-- ⚛️ React and Next.js
-- 🔧 CI/CD and DevOps
-- 🗄️ Databases: PostgreSQL and MongoDB
-- ⌨️ Touch Typing
-- 📚 Tech Articles and Learning
-
-Feel free to connect with me on GitHub, follow my projects, and explore my repositories. Let's build something amazing together!
-
----
-
-
-### 🛠️ Languages and Tools
-
 #### 🌐 Languages
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)
-
-#### 🚀 Frameworks
-![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,npm,nodejs,express,next,prisma)
-
-#### ☁️ CD/CI & Databases
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,aws,postgresql,mongodb,ubuntu,vercel,cloudflare,docker)
-
-#### 🖥️ Code Editors
-![My Skills](https://skillicons.dev/icons?i=vim,neovim,vscode)
-
----
-
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,tailwind,react,npm,nodejs,express,next,prisma,git,github,gitlab,bash,linux,aws,postgresql,mongodb,ubuntu,vercel,cloudflare,docker,neovim,vscode)
 ### 📊 GitHub Stats
 
 <p align="center">
