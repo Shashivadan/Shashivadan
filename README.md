@@ -18,11 +18,11 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
-Total Time: 6 hrs 23 mins
+Total Time: 8 hrs 18 mins
 
-Other          28 hrs 3 mins   >>>>>>>>>>>>>>>>>>>>-----   81.43 %
+Other         28 hrs 53 mins  >>>>>>>>>>>>>>>>>>>------   77.66 %
 ```
 
 <!--END_SECTION:waka-->
