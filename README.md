@@ -8,12 +8,39 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
 ### 📊 GitHub Stats
 <details>
   
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Shashivadan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Shashivadan's GitHub Stats" />
-  </span>
-  <span >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashivadan&theme=vue-dark&hide_border=true" alt="Shashivadan's GitHub Streak" />
-  </span>
+  <table width="100%" align="center">
+<tr>
+<td>
+<img width="1500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashivadan&theme=transparent">
+</td>
+</tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashivadan&theme=transparent"> 
+        </a>
+    </td>
+    <td width="50%">
+		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shashivadan&theme=transparent">
+        </a>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashivadan&theme=transparent">
+        </a>
+    </td>
+    <td width="50%">
+		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shashivadan&theme=transparent&utcOffset=8">
+        </a>
+    </td>
+  </tr>
+</table>
 </details>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko)](https://github.com/Shashivadan/github-readme-activity-graph)
