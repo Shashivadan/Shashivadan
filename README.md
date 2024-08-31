@@ -8,9 +8,11 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
 
 <p align="center">
   
-<img src="https://myreadme.vercel.app/api/embed/Shashivadan?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
-  <br>
+![Shashivadan's Stats](https://github-readme-stats.vercel.app/api?username=Shashivadan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Shashivadan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashivadan&theme=vue-dark&hide_border=true)
+<span> ![Shashivadan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashivadan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  </span>
 </p>
+  <br>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko)](https://github.com/Shashivadan/github-readme-activity-graph)
 
