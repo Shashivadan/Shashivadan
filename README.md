@@ -4,15 +4,17 @@
 You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and get in touch with me.
 #### 🌐 Languages
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,tailwind,react,npm,nodejs,express,next,prisma,git,github,gitlab,bash,linux,aws,postgresql,mongodb,ubuntu,vercel,cloudflare,docker,neovim,vscode)
-### 📊 GitHub Stats
 
-<p align="center">
+### 📊 GitHub Stats
+<details>
   
-![Shashivadan's Stats](https://github-readme-stats.vercel.app/api?username=Shashivadan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Shashivadan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashivadan&theme=vue-dark&hide_border=true)
-<span> ![Shashivadan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashivadan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  </span>
-</p>
-  <br>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shashivadan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Shashivadan's GitHub Stats" />
+  </span>
+  <span >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashivadan&theme=vue-dark&hide_border=true" alt="Shashivadan's GitHub Streak" />
+  </span>
+</details>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko)](https://github.com/Shashivadan/github-readme-activity-graph)
 
