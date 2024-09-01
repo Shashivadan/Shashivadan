@@ -8,7 +8,7 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
 ### 📊 GitHub Stats
 <details>
   
-  <table width="100%" align="center">
+  <table width="100%" >
 <tr>
 <td>
 <img width="1500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashivadan&theme=transparent">
@@ -16,7 +16,7 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" >
   <tr>
     <td width="50%">
 		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashivadan&theme=transparent"> 
@@ -29,7 +29,7 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
   </tr>
 </table>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%">
 		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashivadan&theme=transparent">
@@ -41,9 +41,11 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
     </td>
   </tr>
 </table>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko">
+<!-- [![](https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko)](https://github.com/Shashivadan/github-readme-activity-graph) -->
 </details>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko)](https://github.com/Shashivadan/github-readme-activity-graph)
+
 
 
 <!--START_SECTION:waka-->
