@@ -65,5 +65,3 @@ JSON         8 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <a href="https://wakatime.com/@018de9a6-89c0-447a-9820-65e4876c3d5a"><img src="https://wakatime.com/badge/user/018de9a6-89c0-447a-9820-65e4876c3d5a.svg" alt="Total time coded since Feb 27 2024" /></a>
 <img src="https://komarev.com/ghpvc/?username=Shashivadan&label=Profile%20views&color=ce9927&style=flat" alt="Shashivadan" /> 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/565466116059824129)](https://discord.com/users/565466116059824129)
