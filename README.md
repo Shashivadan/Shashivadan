@@ -1,6 +1,7 @@
 
 [![logo](./logo1.png)](https://github.com/Shashivadan/Shashivadan)
-<br>
+
+
 You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and get in touch with me.
 #### 🌐 Languages
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,tailwind,react,npm,nodejs,express,next,prisma,git,github,gitlab,bash,linux,aws,postgresql,mongodb,ubuntu,vercel,cloudflare,docker,neovim,vscode)
