@@ -1,12 +1,7 @@
-<<<<<<< HEAD
+
 [![logo](./logo3.png)](https://github.com/Shashivadan/Shashivadan)
-<br>
-=======
-
-[![logo](./logo2.png)](https://github.com/Shashivadan/Shashivadan)
 
 
->>>>>>> 4edde59acee63f0be0efdc31c2bfd28921c46bc5
 You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and get in touch with me.
 
 #### 🌐 Languages
