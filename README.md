@@ -1,11 +1,13 @@
-
-[![logo](./logo1.png)](https://github.com/Shashivadan/Shashivadan)
+[![logo](./logo3.png)](https://github.com/Shashivadan/Shashivadan)
 <br>
 You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and get in touch with me.
+
 #### 🌐 Languages
+
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,tailwind,react,npm,nodejs,express,next,prisma,git,github,gitlab,bash,linux,aws,postgresql,mongodb,ubuntu,vercel,cloudflare,docker,neovim,vscode)
 
 ### 📊 GitHub Stats
+
 <details>
 
   <table width="100%" >
@@ -45,9 +47,6 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
 <!-- [![](https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko)](https://github.com/Shashivadan/github-readme-activity-graph) -->
 </details>
 
-
-
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -61,7 +60,6 @@ JSON         8 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
 
 <a href="https://wakatime.com/@018de9a6-89c0-447a-9820-65e4876c3d5a"><img src="https://wakatime.com/badge/user/018de9a6-89c0-447a-9820-65e4876c3d5a.svg" alt="Total time coded since Feb 27 2024" /></a>
 <img src="https://komarev.com/ghpvc/?username=Shashivadan&label=Profile%20views&color=ce9927&style=flat" alt="Shashivadan" />
