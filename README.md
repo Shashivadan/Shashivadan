@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello.+I'm+Shashivadan)](https://git.io/typing-svg)
+[![logo](./logo1.png)](https://github.com/Shashivadan/Shashivadan)
 <br>
 You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and get in touch with me.
 #### 🌐 Languages
@@ -7,7 +7,7 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
 
 ### 📊 GitHub Stats
 <details>
-  
+
   <table width="100%" >
 <tr>
 <td>
@@ -19,7 +19,7 @@ You can visit my [personal website](https://shashivadan.xyz) to learn more about
 <table width="100%" >
   <tr>
     <td width="50%">
-		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashivadan&theme=transparent"> 
+		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashivadan&theme=transparent">
         </a>
     </td>
     <td width="50%">
@@ -64,4 +64,4 @@ JSON         8 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 <a href="https://wakatime.com/@018de9a6-89c0-447a-9820-65e4876c3d5a"><img src="https://wakatime.com/badge/user/018de9a6-89c0-447a-9820-65e4876c3d5a.svg" alt="Total time coded since Feb 27 2024" /></a>
-<img src="https://komarev.com/ghpvc/?username=Shashivadan&label=Profile%20views&color=ce9927&style=flat" alt="Shashivadan" /> 
+<img src="https://komarev.com/ghpvc/?username=Shashivadan&label=Profile%20views&color=ce9927&style=flat" alt="Shashivadan" />
