@@ -1,5 +1,5 @@
 
-[![logo](./logo3.png)](https://github.com/Shashivadan/Shashivadan)
+[![logo](./purple-logo.png)](https://github.com/Shashivadan/Shashivadan)
 
 
 You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and get in touch with me.
