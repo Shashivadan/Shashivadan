@@ -1,13 +1,10 @@
-
 <!-- [![logo](./purple-logo.png)](https://github.com/Shashivadan/Shashivadan) -->
-
 
 <div align="center">
   <a href="https://github.com/Shashivadan">
-    <img src="./purple-logo.png" alt="logo" style="border-radius: 10px; max-width: 100%;" />
+    <img src="./banner.png" alt="logo" style="border-radius: 10px; max-width: 100%;" />
   </a>
 </div>
-
 
 You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and contact me.
 
