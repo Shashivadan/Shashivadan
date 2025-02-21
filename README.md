@@ -8,8 +8,6 @@
 
 You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and contact me.
 
-### 📊 GitHub Stats
-
 <details>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko">
 </details>
