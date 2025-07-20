@@ -6,7 +6,7 @@
   </a>
 </div>
 
-You can visit my [personal website](https://shashivadan.xyz) to learn more about my projects, read my blog, and contact me.
+You can visit my [personal website](https://www.self.so/shashivadan) to learn more about my projects, read my blog, and contact me.
 
 <details>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashivadan&theme=merko">
