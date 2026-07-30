@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Shashivadan">
-    <img src="./banner.png" alt="logo" style="border-radius: 10px; max-width: 100%;" />
+    <img src="./banner-landing.png" alt="logo" style="border-radius: 10px; max-width: 100%;" />
   </a>
 </div>
 
